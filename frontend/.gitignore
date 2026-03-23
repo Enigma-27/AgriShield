@@ -1,0 +1,26 @@
+# --- Existing React/Frontend Rules ---
+/node_modules
+/build
+.DS_Store
+npm-debug.log*
+
+# --- Critical: Security ---
+# This ignores your main .env file in the backend
+.env
+.env.*
+
+# --- Python & Data Science ---
+# Ignores compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignores Virtual Environments (if you ever create one like 'venv')
+venv/
+env/
+.venv/
+
+# --- Large Files / Local Data ---
+# If your .pkl models or .xlsx files are very large, 
+# you might want to ignore them and share them via Drive instead.
+# For now, keeping them is fine unless they are >50MB.
