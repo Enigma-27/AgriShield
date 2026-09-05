@@ -24,7 +24,7 @@ def update_excel(temp, moisture, humidity, rainfall):
         # Create new file
         df_new.to_excel(excel_path, index=False)
     
-    print(f"✅ Excel Updated with 4 factors: T:{temp}, M:{moisture}, H:{humidity}, R:{rainfall}")
+    print(f"Excel Updated with 4 factors: T:{temp}, M:{moisture}, H:{humidity}, R:{rainfall}")
 
 # Example usage:
 if __name__ == "__main__":
