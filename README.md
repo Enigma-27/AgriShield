@@ -6,7 +6,11 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-orange.svg?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime%20Sync-black.svg?logo=socket.io&logoColor=white)](https://socket.io/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Repository: Private](https://img.shields.io/badge/Repository-Private-red.svg?logo=github&logoColor=white)]()
+[![Proprietary](https://img.shields.io/badge/Access-Confidential%20%26%20Proprietary-critical.svg)]()
+
+> [!IMPORTANT]
+> **Confidential & Proprietary**: This is a private repository for **AgriShield**. Unauthorized copying, distribution, or public deployment of this codebase or its machine learning assets is strictly prohibited. Access is restricted to authorized team members and collaborators.
 
 > **AgriShield** is a next-generation **Parametric Crop Insurance & Agricultural Risk Intelligence Platform**. By combining real-time IoT environmental telemetry (temperature, soil moisture, humidity, rainfall) with a multi-output Machine Learning core, AgriShield automates risk assessment and triggers instantaneous, tamper-free insurance payouts without subjective adjusters or weeks of claim delays.
 
@@ -27,7 +31,7 @@
 - [API & WebSocket Reference](#-api--websocket-reference)
 - [Platform Walkthrough](#-platform-walkthrough)
 - [Future Roadmap](#-future-roadmap)
-- [Contributing & License](#-contributing--license)
+- [Access & Confidentiality](#-access--confidentiality)
 
 ---
 
@@ -349,10 +353,12 @@ This regenerates `crop_risk_model.pkl` with 5,000 synthetic multi-variate observ
 
 ---
 
-## 📄 License & Contributing
+## 🔒 Access & Confidentiality
 
-- **License**: Distributed under the MIT License. See `LICENSE` for more information.
-- **Contributions**: Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a Pull Request.
+- **Repository Visibility**: Private.
+- **Access Control**: Restricted strictly to authorized team members and collaborators.
+- **Intellectual Property**: Proprietary software and machine learning architectures. All rights reserved by the AgriShield team.
+- **Commercial & Research Inquiries**: Contact repository owners for partnership, licensing, or evaluation access.
 
 ---
 
